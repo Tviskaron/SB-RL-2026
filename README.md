@@ -45,7 +45,7 @@
 - HuggingFace — *Deep Reinforcement Learning Course: (Introduction)* — [курс](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - Дэвид Сильвер — *Introduction to Reinforcement Learning* — [лекция (видео)](https://www.youtube.com/watch?v=2pWv7GOvuf0), [слайды](https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/intro_rl.pdf)
 - Эмма Бранскилл — *Reinforcement Learning Introduction* — [лекция (видео)](https://www.youtube.com/watch?v=WsvFL-LjA6U)
-- Паскаль Попарт — *CS885 Fall 2022 Lecture 1A (Introduction)* — [слайды](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall22/slides/cs885-lecture1a.pdf)
+- Паскаль Попарт — *CS885 Fall 2022 Lectures* — [курс](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall22/schedule.html)
 - OpenAI Spinning Up for Deep RL — [курс](https://spinningup.openai.com/)
 - Сергей Иванов — *Reinforcement Learning Textbook* — [книга](https://arxiv.org/abs/2201.09746)
 

@@ -24,9 +24,9 @@
 2. Срок выполнения - неделя с момента выдачи задания.
 3. ДЗ можно сдавать позже, получив обратную связь, и затем переделать.
 
-| Название   | Ссылка |
-| ---------- | ------ |
-| Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb) |
+| Название | Ноутбук | Форма для загрузки |
+| --- | --- | --- |
+| Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb) | [ссылка](https://forms.gle/FA9wy9C4cn5vDQXP9) |
 
 ## 🧪 Формат финальной работы
 

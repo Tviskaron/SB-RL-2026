@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Секреты
+.env
+.env.*
+
+# Артефакты ноутбуков
+videos/
+.setup_complete

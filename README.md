@@ -28,7 +28,7 @@
 | ------------------------ | -------------------------------------------------------------------- | -------------------------------------------------- | ------------------------- |
 | Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb)                  | [ссылка](https://forms.gle/FA9wy9C4cn5vDQXP9) | 14 сентября 23:59 |
 | Value iteration          | [ссылка](homeworks/02-value-iteration.ipynb)                    | Бонусное задание                    | —                        |
-| DQN                      | [ссылка](homeworks/03-homework-dqn/homework_pytorch_main.ipynb) | [ссылка](https://forms.gle/xZECqb45Ed9foukV9) | 27 сентября 23:59 |
+| DQN                      | [ссылка](homeworks/03-homework-dqn/homework_pytorch_main.ipynb) | [ссылка](https://forms.gle/xZECqb45Ed9foukV9) | 28 сентября 23:59 |
 | PPO                      | [ссылка](homeworks/04-homework-ppo/)                            | —                                                 | —                        |
 
 ## 🧪 Формат финальной работы

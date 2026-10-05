@@ -20,3 +20,8 @@ env/
 # Артефакты ноутбуков
 videos/
 .setup_complete
+
+
+seminars/ppo_cartpole.zip
+seminars/dataset
+seminars/ckpt

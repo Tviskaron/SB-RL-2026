@@ -14,8 +14,8 @@
 | 6  | 24.09.2026 | Компромисс между смещением и дисперсией. Обобщенная оценка преимущества (GAE). Метод оптимизации ближайшей стратегии (PPO) | [PDF](lectures/06-PPO.pdf)                                       | [ноутбук](seminars/06-seminar-ppo.ipynb)                                                    |
 |    | 28.09.2026 | Пропуск                                                                                                                                                                                                              | —                                        | —                                                                                                |
 | 7  | 01.10.2026 | Методы для непрерывного пространства действий (DDPG, TD3, SAC)                                                                                                                     | [PDF](lectures/07-Continuous.pdf)          | [ноутбук](seminars/07-seminar-ddpg-td3-sac.ipynb)                                                    |
-| 8  | 05.10.2026 | Обучение по демонстрациям. Частичная наблюдаемость и агенты с памятью                                                                                           | —                                        | —                                                                                                |
-| 9  | 08.10.2026 | Трансформеры в обучении с подкреплением: Decision Transformer. Дообучение больших языковых моделей: RLHF и GRPO                                         | —                                        | —                                                                                                |
+| 8  | 05.10.2026 | Обучение по демонстрациям. Частичная наблюдаемость и агенты с памятью                                                                                           | —                                        | [сбор датасета](seminars/08-seminar-generate-data.ipynb), [Decision Transformer](seminars/08-seminar-decision-transformer.ipynb) |
+| 9  | 08.10.2026 | Трансформеры в обучении с подкреплением: Decision Transformer. Дообучение больших языковых моделей: RLHF и GRPO                                         | —                                        | [GRPO](seminars/09-seminar-grpo.ipynb), [SFT и GRPO](seminars/09-seminar-sft-and-grpo.ipynb) |
 | 10 | 12.10.2026 | Интеграция обучения с подкреплением и планирования. Модели мира                                                                                                      | —                                        | —                                                                              |
 |  | 16.10.2026 | **Представление проектов**                                                                                                      |                                        |                                                                               |
 
@@ -30,7 +30,7 @@
 | Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb)                  | [ссылка](https://forms.gle/FA9wy9C4cn5vDQXP9) | 14 сентября 23:59 |
 | Value iteration          | [ссылка](homeworks/02-value-iteration.ipynb)                    | Бонусное задание                    | —                        |
 | DQN                      | [ссылка](homeworks/03-homework-dqn/homework_pytorch_main.ipynb) | [ссылка](https://forms.gle/xZECqb45Ed9foukV9) | 28 сентября 23:59 |
-| PPO                      | [ссылка](homeworks/04-homework-ppo/)                            | [ссылка](https://forms.gle/twWLyzNcMcXvdgBW9)                                                 | 9 октября   23:59                     |
+| PPO                      | [ссылка](homeworks/04-homework-ppo/hw-4-proximal-policy-optimization.ipynb) | [ссылка](https://forms.gle/twWLyzNcMcXvdgBW9)                                                 | 9 октября   23:59                     |
 
 ## 🧪 Формат финальной работы
 

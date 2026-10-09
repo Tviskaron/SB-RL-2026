@@ -25,12 +25,13 @@
 2. Срок выполнения - неделя с момента выдачи задания.
 3. ДЗ можно сдавать позже, получив обратную связь, и затем переделать.
 
-| Название         | Ноутбук                                                       | Форма для загрузки                 | Дедлайн            |
-| --- | --- | --- | --- |
-| Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb)                  | [ссылка](https://forms.gle/FA9wy9C4cn5vDQXP9) | 14 сентября 23:59 |
-| Value iteration          | [ссылка](homeworks/02-value-iteration.ipynb)                    | Бонусное задание                    | —                        |
-| DQN                      | [ссылка](homeworks/03-homework-dqn/homework_pytorch_main.ipynb) | [ссылка](https://forms.gle/xZECqb45Ed9foukV9) | 28 сентября 23:59 |
-| PPO                      | [ссылка](homeworks/04-homework-ppo/hw-4-proximal-policy-optimization.ipynb) | [ссылка](https://forms.gle/twWLyzNcMcXvdgBW9)                                                 | 9 октября   23:59                     |
+| # | Название | Материалы | Форма | Дедлайн |
+| --- | --- | --- | --- | --- |
+| 1 | Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb) | [ссылка](https://forms.gle/FA9wy9C4cn5vDQXP9) | 14 сентября 23:59 |
+| Бонус | Value iteration | [ссылка](homeworks/02-value-iteration.ipynb) | — | — |
+| 2 | DQN | [ссылка](homeworks/03-homework-dqn/homework_pytorch_main.ipynb) | [ссылка](https://forms.gle/xZECqb45Ed9foukV9) | 28 сентября 23:59 |
+| 3 | PPO | [ссылка](homeworks/04-homework-ppo/hw-4-proximal-policy-optimization.ipynb) | [ссылка](https://forms.gle/twWLyzNcMcXvdgBW9) | 9 октября 23:59 |
+| 4 | Мини-проект: выбор темы | [варианты проектов](#-варианты-проектов) | [ссылка](https://forms.gle/AuTZmSgcnjV2ZscD6) | 12 октября 23:59 |
 
 ## 🧪 Формат финальной работы
 

@@ -49,7 +49,7 @@
 - Версии среды и модели, оборудование, гиперпараметры, значения seed, разбиение уровней, число взаимодействий и время обучения.
 
 ## Материалы
-
+- [Обучаем свой jev с помощью unsloth](https://unsloth.ai/docs/new/train-your-own-decision-model-with-unsloth).
 - [Kev-0.6B](https://huggingface.co/jaredpalmer/kev-0.6b) и [код Kev](https://github.com/jaredpalmer/kev).
 - [RAGEN: текстовое представление Sokoban](https://github.com/mll-lab-nu/RAGEN/blob/main/ragen/env/sokoban/env.py).
 - [GiGPO / verl-agent: шаблоны с историей и без неё](https://github.com/langfengQ/verl-agent/blob/master/agent_system/environments/prompts/sokoban.py).

@@ -32,6 +32,7 @@
 | 2 | DQN | [ссылка](homeworks/03-homework-dqn/homework_pytorch_main.ipynb) | [ссылка](https://forms.gle/xZECqb45Ed9foukV9) | 28 сентября 23:59 |
 | 3 | PPO | [ссылка](homeworks/04-homework-ppo/hw-4-proximal-policy-optimization.ipynb) | [ссылка](https://forms.gle/twWLyzNcMcXvdgBW9) | 9 октября 23:59 |
 | 4 | Мини-проект: выбор темы | [варианты проектов](#-варианты-проектов) | [ссылка](https://forms.gle/AuTZmSgcnjV2ZscD6) | 12 октября 23:59 |
+| 4 | Материалы по мини-проектам | | [Ссылка](https://forms.gle/rTfxbKBiekyfU2Cy8) | 23 октября 23:59 | 
 
 ## 🧪 Формат финальной работы
 
